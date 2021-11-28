@@ -14,11 +14,12 @@ author: Omar E. Solis
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Sobre mí"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://www.facebook.com/Max.Solis.Dtp/"
+  
+  Tareas:
+    - Deber 1: "https://beautifuljekyll.com"
+  Mi Academia:
+    - Página Web: "https://www.facebook.com/Max.Solis.Dtp/"
+    - Aula Virtual: "https://codelearning69.wisboo.com/home"
 
 # --- Logo --- #
 
@@ -71,7 +72,6 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   facebook: true
-
 
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
