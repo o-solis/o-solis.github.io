@@ -1,16 +1,14 @@
 ---
 layout: page
 title: Sobre mí
-subtitle: Why you'd want to go on a date with me
+subtitle: Breve descripción 
 ---
 
-My name is Omar Solis. I have the following qualities:
+Saludos, Mi nombre es Omar Solis y estoy muy contento de recibirte en esta, mi primera página web personal.
+Puedes navegar en ella y encontrar mi información y ponerte al contacto conmigo.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Me gusta la mayoría de los generos musicales.
+- Soy un joven con aspiraciones emprendedoras a futuro.
 
-What else do you need?
+Que necesitas? 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
