@@ -8,12 +8,13 @@ tags: [test]
 comments: true
 ---
 A continuación te dejo la información completa sobre mis experiencias.
-.
-.
-.
-.
-.
-.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 **Datos Generales**
 - Edad:	23 años	                                    - 	Género:	Masculino
 - Cédula: 180539460-6	                              - 	Fecha de Nacimiento:	26/11/1998
@@ -34,7 +35,7 @@ A continuación te dejo la información completa sobre mis experiencias.
 - Español
 - Inglés medio
 
-**Idiomas que domino**
+**Hobbies**
 - Videojuegos en horas libres
 ![Crepe](https://iwa1dbr7turszqqgzacurw-on.drv.tw/7mo%20SEMESTRE/Sistemas%20de%20Gestión%20del%20Aprendizaje/My%20Personal%20Website/Recursos_Hoja/lol.jpg){: .mx-auto.d-block :}
 - Andar en Bicicleta

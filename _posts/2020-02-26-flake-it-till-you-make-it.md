@@ -9,12 +9,14 @@ tags: [books, test]
 ---
 
 A continuación te dejaré una breve descripción acerca de mi vida, mis pasiones, aptitudes, entre otras cosas.
-.
-.
-.
-.
-.
-.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 Mi nombre es Omar Solis nací en Ambato un 26 de Noviembre de 1998, tengo 23 años, estudio en la Universidad Nacional de Chimborazo en la Carrera de Pedagogía de las Ciencias Experimentales: Informática, me encuentro cursando el séptimo semestre, En mis tiempor libres disfruto jugar de mobas de estrategia como lo es: League of Legends o Shooters como Valorant, salir de paseo, caminar en senderos, escuchar música, o ir a eventos musicales. 
 
 He vivido y estudiado mi educación primaria y secundaria en la ciudad de Ambato, para mi educación de tecerder nivel tuve que viajar y vivir en una nueva ciudad que me acogio de la mejor manera, Riobamba fue mi segundo hogar y me acostumbre muy pronto a ella, es aquí donde inicia las aventuras y experiencias nuevas y nutritivas a mi vida durante todo este tiempo.
