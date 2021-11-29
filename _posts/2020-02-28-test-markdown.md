@@ -43,7 +43,7 @@ A continuación te dejo la información completa sobre mis experiencias.
 - Realizar Crossfite
 ![Crepe](https://iwa1dbr7turszqqgzacurw-on.drv.tw/7mo%20SEMESTRE/Sistemas%20de%20Gestión%20del%20Aprendizaje/My%20Personal%20Website/Recursos_Hoja/gym.jpg){: .mx-auto.d-block :}
 
-## Here is a secondary heading
+
 
 
 
