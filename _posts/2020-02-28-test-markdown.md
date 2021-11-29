@@ -1,78 +1,50 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Curriculum Vitae
+subtitle:  Hoja de vida
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+A continuación te dejo la información completa sobre mis experiencias.
+.
+.
+.
+.
+.
+.
+**Datos Generales**
+- Edad:	23 años	                                    - 	Género:	Masculino
+- Cédula: 180539460-6	                              - 	Fecha de Nacimiento:	26/11/1998
+- Email Institucional: omar.solis@unach.edu.ec	    - 	Celular:	0995251262
+- Email Personal:	maxsolisdtp@gmail.com	            - 	Convencional:	032407317
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+**Estudiso Realizados**
+- Educación Primaria: Escuela México - Ambato
+- Educación Secundaria: Colegio Nacional "Bolívar" - Ambato
+- Educación Superior: Universidad Nacional de Chimborazo
+- Cursos realizados:
+    - Programación base en Php.
+    - Programación de cero a master en Java.
+    - Programación base en C++.
+    - Programación base en Python.
 
-**Here is some bold text**
+**Idiomas que domino**
+- Español
+- Inglés medio
+
+**Idiomas que domino**
+- Videojuegos en horas libres
+![Crepe](https://iwa1dbr7turszqqgzacurw-on.drv.tw/7mo%20SEMESTRE/Sistemas%20de%20Gestión%20del%20Aprendizaje/My%20Personal%20Website/Recursos_Hoja/lol.jpg){: .mx-auto.d-block :}
+- Andar en Bicicleta
+![Crepe](https://iwa1dbr7turszqqgzacurw-on.drv.tw/7mo%20SEMESTRE/Sistemas%20de%20Gestión%20del%20Aprendizaje/My%20Personal%20Website/Recursos_Hoja/bici.jpg){: .mx-auto.d-block :}
+- Realizar Crossfite
+![Crepe](https://iwa1dbr7turszqqgzacurw-on.drv.tw/7mo%20SEMESTRE/Sistemas%20de%20Gestión%20del%20Aprendizaje/My%20Personal%20Website/Recursos_Hoja/gym.jpg){: .mx-auto.d-block :}
 
 ## Here is a secondary heading
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
