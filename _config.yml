@@ -42,7 +42,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "omar.solis@unach.edu.ec"
-  facebook: "https://www.facebook.com/Max.Solis.Dtp"
+  facebook: "facebook.com/Max.Solis.Dtp" 
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -96,7 +96,7 @@ post_search: true
 
 navbar-col: "#0085A1"
 navbar-text-col: "#0d0c0c"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#0d0c0c"
 page-col: "#EAEAEA"
 text-col: "#404040"
 link-col: "#008AFF"
